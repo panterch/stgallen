@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="4.css" type="text/css"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     id='canvas' width="100%" height="100%"
+     onload='drawRect()'>
+  <script type="text/ecmascript" xlink:href="prototype-1.6.0.2.js" />
+  <script type="text/ecmascript" xlink:href="4.js" />
+
+</svg>
+

@@ -1,0 +1,5 @@
+http://www.interactivepulp.com/pulpcore/widgets/
+Widgets in svg
+
+http://www.croczilla.com/svg/samples/
+Sample w/ Mozilla
