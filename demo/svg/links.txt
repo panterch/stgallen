@@ -3,3 +3,5 @@ Widgets in svg
 
 http://www.croczilla.com/svg/samples/
 Sample w/ Mozilla
+
+http://volity.org/wiki/index.cgi?SVG_Tricks
