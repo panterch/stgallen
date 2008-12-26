@@ -5,3 +5,8 @@ http://www.croczilla.com/svg/samples/
 Sample w/ Mozilla
 
 http://volity.org/wiki/index.cgi?SVG_Tricks
+
+http://oryx-editor.org/backend/poem/model/950/self
+SVG Editor
+
+http://ejohn.org/blog/processingjs/

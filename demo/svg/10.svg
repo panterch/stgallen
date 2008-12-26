@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+       
+  <defs>
+    <g id="template">
+      <rect x="-20" y="-20" width="40" height="40" fill="red" />
+    </g>
+    <marker id='mark'
+      markerUnits='userSpaceOnUse'
+      refX='4' refY='4'
+      markerWidth='8' markerHeight='8'>
+      <rect width='8' height='8' fill='blue'/>
+    </marker>
+  </defs>
+
+  <use xlink:href="#template" x="20" y="20" />
+  <use xlink:href="#template" x="300" y="220" />
+  <path d="M20 20 H100 V220 H300"
+        marker-mid='url(#mark)'
+        style="stroke:green;stroke-width:4;fill:none;stroke-opacity:0.5" />
+  <path d="M20 20 V100 H300 V220"
+        marker='url(#mark)'
+        style="stroke:green;stroke-width:4;fill:none;stroke-opacity:0.5" />
+  
+</svg>
+
+
+

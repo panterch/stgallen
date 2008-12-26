@@ -1,0 +1,14 @@
+rect.inner {
+    fill: #FF00FF;
+    stroke: #FFCCFF;
+    stroke-width: 4;
+}
+rect.grid {
+  fill-opacity: 0;
+  stroke: grey;
+  stroke-width: 2px;
+  stroke-opacity: 0;
+}
+rect.grid:hover {
+  stroke-opacity: 1;
+}

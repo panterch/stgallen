@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="11.css" type="text/css"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     id='canvas' width="600px" height="600px">
+     <script type="text/ecmascript" xlink:href="11.js" />
+
+     <defs>
+       <g id='box'>
+         <rect class='inner' x='-20' y='-15' width='40' height='30' rx='5' ry='5'
+           />
+         <rect class='grid' x='-25' y='-20' width='50' height='40'
+           />
+       </g>
+     </defs>
+
+
+</svg>
+
